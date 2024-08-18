@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/01/70/93/27/360_F_170932733_VOHGeaH5AjrVCXBVryEwVgwhArv2wNNH.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.a{
+    margin-left: 30px;
+    width: 70px;
+    text-align: center;
+    align-content: center;
+    color: aliceblue;
+    display: inline-block;
+    margin-top: 20px;
+}
+#aa{
+    font-weight: 900;
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.f img{
+    width: 100px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-left: 1200px;
+    display: inline-block;
+}
+.bb{
+    border: 2px solid wheat;
+    box-shadow: 4px 4px 4px lemonchiffon;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.342);
+    margin-top: 100px;
+}
+#g{
+    border-radius: 5px;
+}
